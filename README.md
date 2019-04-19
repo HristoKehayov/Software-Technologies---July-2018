@@ -1,6 +1,6 @@
 *
 
-                                                     Software Technologies - July 2018
+                                            Software Technologies - July 2018
 
  SoftUni logo
 
